@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.exe
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\ref\MockInventoryProject.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\bin\Debug\net5.0\MockInventoryProject.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\ref\MockInventoryProject.dll
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week4\MockInventoryProject\obj\Debug\net5.0\MockInventoryProject.genruntimeconfig.cache
